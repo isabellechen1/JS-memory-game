@@ -63,7 +63,7 @@ section {
 }
 
 .back {
-  background-image: url("/images/epl.jpeg");
+  background-image: url("images/epl.jpeg");
   backface-visibility: hidden;
 }
 
